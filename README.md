@@ -26,6 +26,7 @@ ii)	# To find the maximum marks using the list method max().
     #Developed By : Sarish Varshan V
     #Register Number : 212223230196 
     ```
+      
     def max_marks(marks):
         large = max(marks)
         return large
