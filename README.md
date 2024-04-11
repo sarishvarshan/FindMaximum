@@ -15,12 +15,12 @@ i)	#program to mark the maximum of marks using the list method sort
     #Register Number : 212223230196 
     ```
    
-   def max_marks(marks):
+    def max_marks(marks):
        marks.sort()
        large = marks[-1]
        return large
 
-   ```
+    ```
 
 ii)	# To find the maximum marks using the list method max().
     #Developed By : Sarish Varshan V
@@ -45,7 +45,7 @@ iii) # To find the maximum marks without using builtin functions.
             max=i
         return max
 
-     ```
+    ```
 
 
 
