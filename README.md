@@ -13,37 +13,21 @@ To write a program to find the maximum of a list of numbers.
 #program to mark the maximum of marks using the list method sort
 #Developed By : Sarish Varshan V
 #Register Number : 212223230196 
-i)    
-    ```
-   
-    def max_marks(marks):
+i)  def max_marks(marks):
        marks.sort()
        large = marks[-1]
        return large
 
-    ```
-
-ii)	 
-    
-    ```
-      
-    def max_marks(marks):
+ii)	 def max_marks(marks):
         large = max(marks)
         return large
 
-    ```
-
-iii) 
-  
-    ```
-    def max_marks(list1):
+iii) def max_marks(list1):
         max=list1[0]
         for i in list1:
          if i>max:
             max=i
         return max
-
-    ```
 
 ```
 
