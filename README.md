@@ -11,8 +11,7 @@ To write a program to find the maximum of a list of numbers.
 ## Program:
 ```
 
-
-	#program to mark the maximum of marks using the list method sort
+    #program to mark the maximum of marks using the list method sort
     #Developed By : Sarish Varshan V
     #Register Number : 212223230196 
 i)    
