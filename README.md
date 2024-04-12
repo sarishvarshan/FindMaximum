@@ -10,7 +10,6 @@ To write a program to find the maximum of a list of numbers.
 3.	Return the maximum value
 ## Program:
 ```
-
 #program to mark the maximum of marks using the list method sort
 #Developed By : Sarish Varshan V
 #Register Number : 212223230196 
